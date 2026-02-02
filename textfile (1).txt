@@ -1,0 +1,62 @@
+{
+  "cinematic_video_request": {
+    "meta": {
+      "title": "Sadie Sink - Night Drive Portrait",
+      "style_preset": "Cinematic Realism",
+      "duration_seconds": 10,
+      "resolution": "4K",
+      "aspect_ratio": "16:9"
+    },
+    "prompts": {
+      "main_prompt": "Ultra-realistic cinematic animation of Sadie Sink sitting in the backseat of a luxury car at night. The city lights outside the window create soft motion blur with passing traffic and glowing streetlights. Subtle camera push-in shot from medium frame to close-up. Gentle movement in her hair as the car moves. She slowly shifts her gaze toward the window, blinking naturally, then looks back toward the camera with a calm, slightly mysterious expression.",
+      "visual_modifiers": "4K cinematic quality, realistic skin texture, natural facial micro-expressions, smooth motion, dramatic nighttime mood, film-grade color grading, soft contrast, subtle handheld camera feel, shallow depth of field, bokeh city lights, detailed leather texture.",
+      "lighting_prompt": "Soft ambient lighting from streetlights flickers across her face, creating dynamic shadows and warm highlights. Background traffic lights streak smoothly past the window."
+    },
+    "scene_specifications": {
+      "subject": {
+        "name": "Sadie Sink",
+        "action": "Sitting, gazing out window, turning head to camera, blinking",
+        "expression": "Calm, mysterious, natural micro-expressions",
+        "details": "Gentle hair movement, realistic skin texture"
+      },
+      "environment": {
+        "setting": "Backseat of luxury car",
+        "time": "Night",
+        "exterior": "City streets, passing traffic",
+        "details": "Detailed leather interior, window reflections"
+      },
+      "camera": {
+        "movement": "Slow push-in (dolly forward)",
+        "stabilization": "Slight handheld feel (organic motion)",
+        "framing": "Medium shot to Close-up",
+        "focus": "Shallow depth of field with background bokeh"
+      },
+      "lighting": {
+        "type": "Dynamic/Transient",
+        "sources": "Passing streetlights, city glow",
+        "characteristics": "Warm highlights, soft contrast, rhythmic flickering shadows"
+      }
+    }
+  }
+}
+
+Image prompt:
+{
+  "prompt": {
+    "subject": {
+      "description": "Sadie Sink with shoulder-length, blonde red hair and bangs. She has fair skin with light freckles, winged eyeliner. Her expression is sultry, with her index finger resting gently on her lower lip.",
+      "clothing": "She is wearing a tight, long-sleeved black mini dress and sheer black pantyhose.",
+      "pose": "She is seated in the back of a car with her legs crossed and pulled up towards her chest, displaying bare feet in sheer hose."
+    },
+    "environment": {
+      "location": "Interior of a luxury car, specifically the back seat.",
+      "details": "Light grey leather seats with diamond stitching patterns visible on the side door panel. A 'B' logo (likely Bentley) is embroidered on the headrest.",
+      "background": "Through the car window, a night cityscape is visible with blurred city lights, street lamps, and streaks of light from moving traffic on a highway."
+    },
+    "lighting_and_quality": {
+      "lighting": "Direct flash photography illuminating the subject against a darker background.",
+      "resolution": "4K HD quality, highly detailed textures on the hair, skin, and leather seats.",
+      "style": "Candid, urban night aesthetic, realistic photo."
+    }
+  }
+}
